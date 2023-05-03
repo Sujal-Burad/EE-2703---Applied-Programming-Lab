@@ -11,10 +11,11 @@ This course covered the Fundamental of python like:
 - **List comprehension** and **decorators**
 - **File handling**
 - **Error handling** in python
+- Using varios libraries like numpy, math, and scipy.
 
 
 The following is the overview of the concepts that I implemented in Python : 
-- Solving a (10 x 10) linear equation using matrices and **Gaussian elimination**.
+- Solving a **(10 x 10) linear equation** using matrices and **Gaussian elimination**.
 - Solving a given SPICE netlist using **Modified Nodal Analysis (MNA)**. 
 - Visualizing data using **Least Square Curve fitting**. Using **curve_fit** for non-linear curves. 
 - Solving Combinational Circuits netlist using **Directed Acyclic Graph (DAG)**, and **Topological ordered evaluation** and **Event-driven evaluation**.
