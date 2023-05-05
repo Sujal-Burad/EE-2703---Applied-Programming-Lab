@@ -20,7 +20,6 @@ The following is the overview of the concepts that I implemented in Python :
 - Visualizing data using **Least Square Curve fitting**. Using **curve_fit** for non-linear curves. 
 - Solving Combinational Circuits netlist using **Directed Acyclic Graph (DAG)**, and **Topological ordered evaluation** and **Event-driven evaluation**.
 - **Animation** : **Morphing** a triangle to an octagon (or any sided polygon) and back to triangle, using mapping.  
-- Morphing a cat to dog using **Delaunay triangulation** and **Affine Transformation.**
 - Finding the **Optimum point** of a single and multi-variable function using **Gradient descent** and **Simulated Annealing**. 
 - Solving the **Travelling salesman problem** for 10 cities, and 100 cities using Simulated Annealing. 
 - Using **Cython** to improve speed of solving SPICE netlist using MNA. 
