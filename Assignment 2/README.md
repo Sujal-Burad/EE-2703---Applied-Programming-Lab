@@ -4,5 +4,10 @@ The following problems are covered in this Assignment :
 - Solving a **SPICE netlist** using the above solver for **AC and DC circuits.**
 
 <br>
-The SPICE netlist zip file contains the netlist. <br>
-The Assignment 2.zip contains all the files, if you want to download. 🙂
+
+The SPICE netlist zip file contains the netlist.<br>
+
+
+The Assignment 2.zip contains all the files.<br>
+
+Happy Solving!🙂
