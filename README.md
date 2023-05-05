@@ -26,4 +26,4 @@ The following is the overview of the concepts that I implemented in Python :
 - Using **Cython** to improve speed of solving SPICE netlist using MNA. 
 
 
-The implementation of all the above is covered in the 8 Assignements. 
+The implementation of all the above concepts is covered in the 8 Assignements. 
