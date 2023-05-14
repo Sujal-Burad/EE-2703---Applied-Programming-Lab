@@ -11,7 +11,7 @@ This course covered the Fundamental of python like:
 - **List comprehension** and **decorators**
 - **File handling**
 - **Error handling** in python
-- Using varios libraries like numpy, math, and scipy.
+- Using various libraries like numpy, math, and scipy.
 
 
 The following is the overview of the concepts that I implemented in Python : 
