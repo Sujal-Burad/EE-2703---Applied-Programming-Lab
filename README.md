@@ -2,7 +2,7 @@
 
 <br>
 
-This is a basic **Python** programming course that is provided to 2nd year B. Tech students studying Electrical Engineering at Indian Institute of Technology Madras (IIT-M). 
+This is a **Python** programming course that is provided to 2nd year B. Tech students studying Electrical Engineering at Indian Institute of Technology Madras (IIT-M). 
 
 <br>
 
